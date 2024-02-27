@@ -1,0 +1,78 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  #summary{
+    
+    background-color:black;
+    height: 150px;
+  }
+  #summary h1,#summary p{
+    color: whitesmoke;
+  }
+  h1,h2{
+    margin: 0;
+    
+  }
+  p{
+    margin-top: 5px;
+  }
+  #education{
+    height: 185px;
+    width: 100%;
+    background-color:;
+    padding: 0;
+    margin: 0;
+  }
+
+  #project h4{
+    margin-bottom: 0;
+
+  }
+  #summary img {
+    max-width: 100px; 
+    border-radius: 50%; 
+    margin-right: 20px;
+    margin-top: 7px;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  #experience{
+    background-color: grey;
+    height: 235px;
+  }
+  #achievements{
+    background-color: gray;
+   height: 105px;
+  }
+  #achievements p{
+    color: black;
+    padding-top: 7px;
+  }
+  #contact{
+    height: 85px;
+    background-color: black;
+    color: whitesmoke;
+    
+  }
+  #contact p{
+    margin-bottom: 5px;
+  }
+ #contact h3{
+    margin-bottom: 5px;
+ }
+  ul{
+
+    padding-left: 18px;
+  }
+  
+  footer{
+
+    text-align: center;
+    font-size: 15px;
+    background-color:azure;
+   
+  }
